@@ -1,0 +1,3 @@
+Bundle-Name: liferay-resource-bundle-override
+Bundle-SymbolicName: be.gfi.liferay.hook.resourcebundle
+Bundle-Version: 1.0.0
