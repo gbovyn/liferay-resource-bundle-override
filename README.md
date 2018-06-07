@@ -1,6 +1,8 @@
 # liferay-resource-bundle-override
 
-Override global language keys to disable required user last name (in all languages).
+Override global language keys to disable required user last name (in English).
+
+`language.id` can take only 1 argument / language.
 
 **Important**: Tomcat needs to be restarted for the change to be effective.
 
